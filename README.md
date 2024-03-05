@@ -18,7 +18,7 @@ Ultimately, I based on the dashboard to draw insights and give suggestions to im
 
 ![The Design Thinking process](https://github.com/TaNhuThuan/Business-Analysis-Project-w-PBI/assets/142424814/bcdddcd5-4db2-435b-ba42-9f9332ee9ed7)
 
-Click the link to access the details of The Design Thinking process [Google Docs](https://docs.google.com/spreadsheets/d/1MsUKBKGi4P4U9Ar_DjMd-G0p8073QxgFuxc2-BA_3DY/edit#gid=217464943).
+Click the link to access the details of The Design Thinking process [Google Docs]([https://docs.google.com/spreadsheets/d/1MsUKBKGi4P4U9Ar_DjMd-G0p8073QxgFuxc2-BA_3DY/edit#gid=217464943](https://docs.google.com/spreadsheets/d/1MsUKBKGi4P4U9Ar_DjMd-G0p8073QxgFuxc2-BA_3DY/edit?usp=sharing)https://docs.google.com/spreadsheets/d/1MsUKBKGi4P4U9Ar_DjMd-G0p8073QxgFuxc2-BA_3DY/edit?usp=sharing).
 
 
 
